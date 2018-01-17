@@ -70,6 +70,9 @@ Module for python3.x is build with setup.3.py::
 Note ``python3`` name. Many Linux distributions ship both Python 2 and 3,
 and use the different name to distinguish versions.
 
+if error (aspell.c:53:20: fatal error: aspell.h: No such file or directory) appears while installations then 
+sudo apt-get install libaspell-dev
+
 
 Details
 -------
